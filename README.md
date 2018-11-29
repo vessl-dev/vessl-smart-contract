@@ -1,1 +1,1 @@
-# vessl.token
+# vessl-smart-contract
